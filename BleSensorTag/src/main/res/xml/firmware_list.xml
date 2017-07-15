@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FirmwareEntries>
+    <FirmwareEntry>
+        <Custom>NO</Custom>
+        <WirelessStandard>ZigBee</WirelessStandard>
+        <Type>E</Type>
+        <OADAlgo>2</OADAlgo>
+        <BoardType>Sensor Tag 2</BoardType>
+        <RequiredVersionRev>0.91</RequiredVersionRev>
+        <SafeMode>NO</SafeMode>
+        <Version>1.10</Version>
+        <Filename>CC2650SensorTag_ZigBee_All.bin</Filename>
+    </FirmwareEntry>
+    <FirmwareEntry>
+        <Custom>NO</Custom>
+        <WirelessStandard>BLE</WirelessStandard>
+        <Type>E</Type>
+        <OADAlgo>2</OADAlgo>
+        <BoardType>Sensor Tag 2</BoardType>
+        <RequiredVersionRev>0.91</RequiredVersionRev>
+        <SafeMode>NO</SafeMode>
+        <Version>1.10</Version>
+        <Filename>CC2650SensorTag_ZigBee_All.bin</Filename>
+    </FirmwareEntry>
+</FirmwareEntries>      

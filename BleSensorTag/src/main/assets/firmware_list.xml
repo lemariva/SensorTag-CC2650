@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FirmwareEntries>
+    <FirmwareEntry>
+        <DevPack></DevPack>
+        <Custom>NO</Custom>
+        <WirelessStandard>BLE</WirelessStandard>
+        <Type>E</Type>
+        <OADAlgo>2</OADAlgo>
+        <BoardType>Sensor Tag 2</BoardType>
+        <RequiredVersionRev>0.0</RequiredVersionRev>
+        <SafeMode>NO</SafeMode>
+        <Version>0.91</Version>
+        <Filename>CC2650SensorTag_BLE_All_v0.91.bin</Filename>
+    </FirmwareEntry>
+    <FirmwareEntry>
+        <DevPack></DevPack>
+        <Custom>NO</Custom>
+        <WirelessStandard>ZigBee</WirelessStandard>
+        <Type>E</Type>
+        <OADAlgo>2</OADAlgo>
+        <BoardType>Sensor Tag 2</BoardType>
+        <RequiredVersionRev>1.12</RequiredVersionRev>
+        <SafeMode>NO</SafeMode>
+        <Version>1.12</Version>
+        <Filename>CC2650SensorTag_ZigBee_All.bin</Filename>
+    </FirmwareEntry>
+    <FirmwareEntry>
+        <DevPack></DevPack>
+        <Custom>NO</Custom>
+        <WirelessStandard>BLE</WirelessStandard>
+        <Type>E</Type>
+        <OADAlgo>2</OADAlgo>
+        <BoardType>Sensor Tag 2</BoardType>
+        <RequiredVersionRev>0.91</RequiredVersionRev>
+        <SafeMode>NO</SafeMode>
+        <Version>1.12</Version>
+        <Filename>CC2650SensorTag_BLE_All_v1.12.bin</Filename>
+    </FirmwareEntry>
+    <FirmwareEntry>
+        <DevPack>LCD</DevPack>
+        <Custom>NO</Custom>
+        <WirelessStandard>BLE</WirelessStandard>
+        <Type>E</Type>
+        <OADAlgo>2</OADAlgo>
+        <BoardType>Sensor Tag 2</BoardType>
+        <RequiredVersionRev>1.12</RequiredVersionRev>
+        <SafeMode>NO</SafeMode>
+        <Version>1.12</Version>
+        <Filename>DevPacks/CC2650SensorTag_BLE_App_LCD_v1.12.bin</Filename>
+    </FirmwareEntry>
+    <FirmwareEntry>
+        <DevPack>Light</DevPack>
+        <Custom>NO</Custom>
+        <WirelessStandard>BLE</WirelessStandard>
+        <Type>E</Type>
+        <OADAlgo>2</OADAlgo>
+        <BoardType>Sensor Tag 2</BoardType>
+        <RequiredVersionRev>1.12</RequiredVersionRev>
+        <SafeMode>NO</SafeMode>
+        <Version>1.12</Version>
+        <Filename>DevPacks/CC2650SensorTag_BLE_App_Light_v1.12.bin</Filename>
+    </FirmwareEntry>
+</FirmwareEntries>

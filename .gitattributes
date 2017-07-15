@@ -1,0 +1,3 @@
+date*.txt filter=dater
+*.java filter=dater
+*.java filter=revisioner
