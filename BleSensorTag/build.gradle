@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion '25.0.3'
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
         applicationId "com.example.ti.ble.sensortag"
-        minSdkVersion 22
-        targetSdkVersion 25
+        minSdkVersion 27
+        targetSdkVersion 27
     }
 
     buildTypes {
@@ -25,7 +25,7 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:25.3.1'
-    compile files('libs/org.eclipse.paho.android.service-1.0.2.jar')
-    compile files('libs/org.eclipse.paho.client.mqttv3-1.0.2.jar')
+    implementation 'com.android.support:support-v4:27.+'
+    implementation files('libs/org.eclipse.paho.android.service-1.0.2.jar')
+    implementation files('libs/org.eclipse.paho.client.mqttv3-1.0.2.jar')
 }

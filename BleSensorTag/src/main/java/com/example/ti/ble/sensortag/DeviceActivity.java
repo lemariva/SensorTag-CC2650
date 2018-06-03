@@ -490,7 +490,7 @@ import com.example.ti.util.PreferenceWR;
                                 if (chars.size() == 0) {
 
                                     Log.d("DeviceActivity", "No characteristics found for this service !!!");
-                                    return;
+
                                 }
                                 servicesDiscovered++;
                                 final float serviceDiscoveredcalc = (float)servicesDiscovered;
